@@ -2,7 +2,7 @@
 - 👀 I’m interested in web technology.
 - 🌱 I’m currently learning JavaScript (ES6+).
 - 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me <a href="mailto:andylovesapple666@icloud.com">E-Mail</a>
+- 📫 How to reach me at this <a href="mailto:andylovesapple666@icloud.com">E-Mail Address</a>.
 
 <!---
 AndyFang36/AndyFang36 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
